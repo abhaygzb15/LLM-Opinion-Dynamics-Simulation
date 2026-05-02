@@ -4,3 +4,4 @@ streamlit
 plotly
 python-dotenv
 anvil-uplink
+ipykernel
